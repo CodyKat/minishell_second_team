@@ -1,3 +1,5 @@
+이 프로그램은 Intel Mac을 기준으로 작성되었습니다. (M1 Mac 가능)
+
 # minishell
 
 1. make 를 이용해 컴파일합니다.
